@@ -1,0 +1,30 @@
+{
+  "name": "bedrock-multikey-context",
+  "version": "1.0.0",
+  "description": "Bedrock loader for multi key context",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalbazaar/bedrock-multikey-context.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com"
+  },  
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-multikey-context/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-multikey-context#readme",
+  "dependencies": {
+    "@digitalbazaar/multikey-context": "^1.0.0"
+  },
+  "peerDependencies": {
+    "bedrock": "^4.0.0",
+    "bedrock-jsonld-document-loader": "^1.0.0"
+  }
+}
