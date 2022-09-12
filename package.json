@@ -14,7 +14,7 @@
     "name": "Digital Bazaar, Inc.",
     "email": "support@digitalbazaar.com",
     "url": "https://digitalbazaar.com"
-  },  
+  },
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/digitalbazaar/bedrock-multikey-context/issues"
@@ -26,5 +26,10 @@
   "peerDependencies": {
     "bedrock": "^4.0.0",
     "bedrock-jsonld-document-loader": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-digitalbazaar": "^4.1.0",
+    "eslint-plugin-jsdoc": "^39.3.6"
   }
 }
