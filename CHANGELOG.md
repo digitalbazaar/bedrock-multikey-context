@@ -1,5 +1,10 @@
 # bedrock-multikey-context CHANGELOG
 
+## 3.0.0 - 2024-08-xx
+
+### Fixed
+- Add package `files` field.
+
 ## 2.0.0 - 2023-09-19
 
 ### Changed
