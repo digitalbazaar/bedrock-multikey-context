@@ -5,6 +5,7 @@
 ### Changed
 - **BREAKING**: Update peer dependencies.
   - `@bedrock/jsonld-document-loader@5.1.0`
+- Update context dependency.
 
 ### Fixed
 - Add package `files` field.
