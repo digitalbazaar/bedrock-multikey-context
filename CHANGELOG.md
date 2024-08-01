@@ -2,6 +2,10 @@
 
 ## 3.0.0 - 2024-08-xx
 
+### Changed
+- **BREAKING**: Update peer dependencies.
+  - `@bedrock/jsonld-document-loader@5.1.0`
+
 ### Fixed
 - Add package `files` field.
 
