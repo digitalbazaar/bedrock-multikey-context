@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-multikey-context#readme",
   "dependencies": {
-    "@digitalbazaar/multikey-context": "^1.0.0"
+    "@digitalbazaar/multikey-context": "^2.0.1"
   },
   "peerDependencies": {
     "@bedrock/jsonld-document-loader": "^5.1.0"
