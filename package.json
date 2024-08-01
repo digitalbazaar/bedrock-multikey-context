@@ -4,6 +4,9 @@
   "type": "module",
   "description": "Bedrock loader for multi key context",
   "main": "./lib/index.js",
+  "files": [
+    "lib/**/*.js"
+  ],
   "scripts": {
     "lint": "eslint --ext .cjs,.js ."
   },
