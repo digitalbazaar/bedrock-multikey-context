@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/multikey-context",
-  "version": "3.0.0",
+  "version": "3.0.1-0",
   "type": "module",
   "description": "Bedrock loader for multi key context",
   "license": "SEE LICENSE IN LICENSE.md",
