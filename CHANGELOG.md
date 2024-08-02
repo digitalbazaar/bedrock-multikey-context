@@ -2,13 +2,15 @@
 
 ## 3.0.0 - 2024-08-xx
 
+### Added
+- Add linting and testing actions.
+- Add tests.
+
 ### Changed
 - **BREAKING**: Update peer dependencies.
   - `@bedrock/jsonld-document-loader@5.1.0`
 - Update context dependency.
 - Use `addDocuments`.
-- Add linting and testing actions.
-- Add tests.
 
 ### Fixed
 - Add package `files` field.
