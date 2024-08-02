@@ -7,6 +7,7 @@
   - `@bedrock/jsonld-document-loader@5.1.0`
 - Update context dependency.
 - Use `addDocuments`.
+- Add linting and testing actions.
 - Add tests.
 
 ### Fixed
