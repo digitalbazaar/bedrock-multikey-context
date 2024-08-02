@@ -1,6 +1,6 @@
 # bedrock-multikey-context CHANGELOG
 
-## 3.0.0 - 2024-08-xx
+## 3.0.0 - 2024-08-01
 
 ### Added
 - Add linting and testing actions.
